@@ -1,0 +1,15 @@
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\Entities.dll
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\gislen\RiceMill\Entities\bin\Debug\net5.0\Entities.pdb
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.dll
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.pdb
+D:\gislen\RiceMill\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\BAL_Interface.deps.json
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\BAL_Interface.dll
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\ref\BAL_Interface.dll
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\BAL_Interface.pdb
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\Entities.dll
+D:\gislen\RiceMill\BAL_Interface\bin\Debug\net5.0\Entities.pdb
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.AssemblyInfo.cs
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.csproj.CopyComplete
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.dll
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\ref\BAL_Interface.dll
+D:\gislen\RiceMill\BAL_Interface\obj\Debug\net5.0\BAL_Interface.pdb

@@ -1,0 +1,12 @@
+D:\gislen\RiceMill\CustomIdentity\bin\Debug\net5.0\CustomIdentity.deps.json
+D:\gislen\RiceMill\CustomIdentity\bin\Debug\net5.0\CustomIdentity.dll
+D:\gislen\RiceMill\CustomIdentity\bin\Debug\net5.0\ref\CustomIdentity.dll
+D:\gislen\RiceMill\CustomIdentity\bin\Debug\net5.0\CustomIdentity.pdb
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.AssemblyInfo.cs
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.dll
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\ref\CustomIdentity.dll
+D:\gislen\RiceMill\CustomIdentity\obj\Debug\net5.0\CustomIdentity.pdb

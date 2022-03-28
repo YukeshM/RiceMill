@@ -1,0 +1,17 @@
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\DAL.deps.json
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\DAL.dll
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\ref\DAL.dll
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\DAL.pdb
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\Entities.dll
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\IDAL.dll
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\IDAL.pdb
+D:\gislen\RiceMill\DAL_Method\bin\Debug\net5.0\Entities.pdb
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.dll
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\ref\DAL.dll
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.pdb
+D:\gislen\RiceMill\DAL_Method\obj\Debug\net5.0\DAL.csproj.CopyComplete

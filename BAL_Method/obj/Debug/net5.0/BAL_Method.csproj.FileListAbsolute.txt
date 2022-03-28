@@ -1,0 +1,15 @@
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\BAL_Method.deps.json
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\BAL_Method.dll
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\ref\BAL_Method.dll
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\BAL_Method.pdb
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\Entities.dll
+D:\gislen\RiceMill\BAL_Method\bin\Debug\net5.0\Entities.pdb
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.AssemblyInfo.cs
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.csproj.CopyComplete
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.dll
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\ref\BAL_Method.dll
+D:\gislen\RiceMill\BAL_Method\obj\Debug\net5.0\BAL_Method.pdb

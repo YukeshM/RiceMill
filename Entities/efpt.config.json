@@ -1,0 +1,122 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "RicemillContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entity",
+   "ProjectRootNamespace": "Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AddressType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Gender]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Image]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrderItem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Role]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoleClaim]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserClaim]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserLogin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserRole]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserToken]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[uspGetGender]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetImageById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetImageByProductId]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetImages]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetOrderId]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetOrderItem]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetProdcutById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[uspGetProductList]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "TRAINEE-03.RiceMill",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

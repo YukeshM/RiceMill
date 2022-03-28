@@ -1,0 +1,14 @@
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\IDAL.deps.json
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\IDAL.dll
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\ref\IDAL.dll
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\IDAL.pdb
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\Entities.dll
+D:\gislen\RiceMill\DAL_Interface\bin\Release\net5.0\Entities.pdb
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.csproj.AssemblyReference.cache
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.AssemblyInfoInputs.cache
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.AssemblyInfo.cs
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.csproj.CoreCompileInputs.cache
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.dll
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\ref\IDAL.dll
+D:\gislen\RiceMill\DAL_Interface\obj\Release\net5.0\IDAL.pdb
